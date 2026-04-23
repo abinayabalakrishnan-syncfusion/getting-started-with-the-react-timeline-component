@@ -21,7 +21,7 @@ This project helps developers understand the basic usage and configuration optio
 ## Installation and Running the Application
 1. Clone the repository.
 ```bash
-git clone https://github.com/abinayabalakrishnan-syncfusion/getting-started-with-the-react-timeline-component.git
+git clone https://github.com/SyncfusionExamples/getting-started-with-the-react-timeline-component.git
 ```
 2. Open the project in Visual Studio Code.
 3. Restore required packages.
