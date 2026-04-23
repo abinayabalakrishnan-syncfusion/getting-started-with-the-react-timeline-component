@@ -1,15 +1,43 @@
 # Getting Started with the React Timeline Component
 
-A quick-start project that contains code to create and configure the Syncfusion React Timeline component. This project also contains code to show you how to add, align, and disable items, change the orientation, and reverse the timeline.
- 
-Refer to the following documentation to learn about the React Timeline component: 
-https://ej2.syncfusion.com/react/documentation/timeline/getting-started
+**Repository Description**  
+This repository contains a quick‑start React sample that demonstrates how to create and configure the Syncfusion React Timeline component to display chronological information in a structured and visually clear format.
 
-Check out this online example of the React Timeline component:
-https://ej2.syncfusion.com/react/demos/#/material/timeline/default  
+A quick‑start project that includes example code to add, align, disable, and reverse timeline items, as well as configure orientation options using the React Timeline component.
 
-## Project prerequisites
-Make sure that you have the compatible versions of [Visual Studio Code](https://code.visualstudio.com/download ) and [NodeJS](https://nodejs.org/en/download) or later version in your machine before starting to work on this project.
+## Project Overview
+This project helps developers understand the basic usage and configuration options of the Syncfusion React Timeline component. It focuses on building timelines with customizable layouts that can be adapted to different application scenarios.
 
-## How to run this application
-To run this application, you need to first clone the `getting-started-with-the-react-timeline-component` repository and then open it in Visual Studio Code. Now, simply build and run your project to view the output.
+## Features
+- Create and configure React Timeline component
+- Add and align timeline items
+- Enable or disable timeline items
+- Change orientation and reverse the timeline
+
+## Prerequisites
+- Visual Studio Code
+- Node.js (latest version recommended)
+
+## Installation and Running the Application
+1. Clone the repository.
+```bash
+git clone https://github.com/abinayabalakrishnan-syncfusion/getting-started-with-the-react-timeline-component.git
+```
+2. Open the project in Visual Studio Code.
+3. Restore required packages.
+4. Build and run the project to view the output.
+
+## Documentation
+- React Timeline Getting Started:  
+  https://ej2.syncfusion.com/react/documentation/timeline/getting-started
+
+## Online Demo
+- React Timeline demo:  
+  https://ej2.syncfusion.com/react/demos/#/material/timeline/default
+
+## Troubleshooting
+- Ensure Node.js and required packages are installed.
+- Run `npm install` if dependencies are missing.
+- Rebuild the project if the Timeline does not render correctly.
+- Check the browser console for runtime or configuration errors.
+``
