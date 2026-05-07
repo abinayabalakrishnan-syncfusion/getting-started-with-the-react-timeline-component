@@ -1,6 +1,5 @@
 # Getting Started with the React Timeline Component
 
-**Repository Description**  
 This repository contains a quick‑start React sample that demonstrates how to create and configure the Syncfusion React Timeline component to display chronological information in a structured and visually clear format.
 
 A quick‑start project that includes example code to add, align, disable, and reverse timeline items, as well as configure orientation options using the React Timeline component.
